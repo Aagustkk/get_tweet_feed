@@ -1,1 +1,1 @@
-# get_twitt_feed
+# get_tweet_feed
